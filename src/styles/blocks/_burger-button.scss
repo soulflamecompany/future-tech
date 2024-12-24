@@ -16,7 +16,7 @@
   }
 
   &.is-active {
-    .burger-button_line {
+    .burger-button__line {
       &:first-child {
         rotate: 45deg;
         transform-origin: 0;
