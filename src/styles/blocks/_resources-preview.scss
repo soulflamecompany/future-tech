@@ -19,4 +19,9 @@
       row-gap: rem(6);
     }
   }
+  &__button {
+    @include mobile-s {
+      width: 100%;
+    }
+  }
 }
